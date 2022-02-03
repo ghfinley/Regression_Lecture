@@ -1,0 +1,17 @@
+
+dataset(100)        real World (50)
+ 
+data 			new_data
+
+target			new_target
+
+
+
+dataset1 (50)    dataset2 (50)
+
+data1		data 2
+
+target1     target2
+
+can split the data in 2 to train the model since both are random samples of the larger data set. WE can now use the second data set and use it liiek the real workd data and see how well the model fits the second data set 
+
